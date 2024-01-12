@@ -1,6 +1,10 @@
 # Funlang 
 
-'Fun', also known as funlang is a fun functional language...
+'Fun', also known as funlang is a fun functional language that I made as 
+part of my compilers course at university. The requirements were to 
+generate a plaintext llvm-ir file, hence why I am doing this instead of 
+other, better methods. If you're good at LLVM you'll probably notice that 
+the programs emit buggy LLVM. Let me know so I can fix it.
 
 ## Some Notes About This Repository
 
