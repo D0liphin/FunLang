@@ -2,6 +2,12 @@
 
 'Fun', also known as funlang is a fun functional language...
 
+## Some Notes About This Repository
+
+I can't fork the original, because I don't have access to the organisation's
+settings. I can't even clone after the due date... As a result, I had to 
+recommit everything.
+
 ## Types
 
 Funlang only has primitive types. These are
