@@ -4,7 +4,10 @@
 part of my compilers course at university. The requirements were to 
 generate a plaintext llvm-ir file, hence why I am doing this instead of 
 other, better methods. If you're good at LLVM you'll probably notice that 
-the programs emit buggy LLVM. Let me know so I can fix it.
+the programs emit buggy LLVM. Let me know so I can fix it. 
+
+Although this is a uni project, there's so much stuff in it that's not part
+of the spec to make this a proper compiler. Write some programs in it :)!
 
 ## Some Notes About This Repository
 
